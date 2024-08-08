@@ -1,0 +1,142 @@
+body{
+    background-color: rgba(245, 245, 245, 0.871);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    height: 50px;
+    background-color: white;
+    vertical-align: top;
+}
+#logo{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 50px;
+    padding-top: 3px;
+}
+#search_box_div{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 30px;
+}
+#search_box{
+    width: 700px;
+    height: 27px;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 6px;
+    background-image: url(resources/search_icon.png);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 1px;
+    background-color: rgb(230, 240, 249);
+}
+#sub_section{
+    display: inline-block;
+    float: right;
+    padding-right: 90px;
+}
+#login_botton{
+    display: inline-block;
+    vertical-align: middle;
+}
+#login_botton_icon{
+    display: inline-block;
+    vertical-align: middle;
+}
+#cart_icon{
+    display: inline-block;
+    vertical-align: middle;
+}
+#cart{
+    display: inline-block;
+    padding-right: 40px;
+    padding-left: 50px;
+}
+#become_seller_menu_icon{
+    display: inline-block;
+    vertical-align: middle;
+}
+#become_seller_menu{
+    display: inline-block;
+}
+#items_options{
+    margin-left: 20px;
+    width: 1450px;
+    height: 130px;
+    padding-left: 30px;
+    background-color: white;
+}
+#items{
+    width: 60px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle; 
+}
+#items_image{
+    height: 54px;
+    width: 54px;
+}
+#item_name{
+    font-size: small;
+}
+#mid_section{
+    padding-left: 20px;
+}
+#low_section{
+    height: 300px;
+    width: 1480px;
+    margin-left: 20px;
+    background-color:  rgba(245, 245, 245, 0.871);
+}
+#right_div{
+    width: 200px;
+    height: 300px;
+    float: right;
+    display: inline-block;
+}
+#right_div_img{
+    height: 299px;
+    width: 199px;
+}
+#left_div{
+    height: 300px;
+    width: 1270px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: white;
+}
+#left_top{
+    height: 60px;
+    width: 1260px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#left_down{
+    height: 240px;
+    width: 1260px;
+    display: inline-block;
+}
+#left_top_text{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: large;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#mobiles{
+    width: 180px;
+    height: 200px;
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    border: 0.4px solid rgba(191, 190, 190, 0.31);
+}
+#mobiles_text{
+    font-size: 13px;
+    width: 180px;
+}
+#mobile_image{
+    width: 150px;
+    height: 180px;
+}
